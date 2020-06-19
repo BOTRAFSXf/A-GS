@@ -77,10 +77,10 @@ header img:hover {
   color: yellow;
 }
 .content {
-  display:flex;
-  flex-flow: row;
+
+  flex-flow: column;
   margin: 0 auto;
-  justify-content: space-around;
+  
 }
 .card {
   max-width: 500px;
